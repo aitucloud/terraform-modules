@@ -1,5 +1,5 @@
 # terraform-openstack-server
-![Terraform Build](https://nexus.btsd.kz/repository/devops/badge.svg)
+
 
 Terraform module to create servers on OpenStack.  
 **Depends on:**

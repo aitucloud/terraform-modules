@@ -1,5 +1,5 @@
 # terraform-openstack-serules
-![Terraform Build](https://nexus.btsd.kz/repository/devops/badge.svg)
+
 
 Terraform module to create rules for segroups on OpenStack.  
 **Depends on module.segroups**  

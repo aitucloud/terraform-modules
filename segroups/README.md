@@ -1,5 +1,5 @@
 # terraform-openstack-segroups
-![Terraform Build](https://nexus.btsd.kz/repository/devops/badge.svg)
+
 
 Terraform module to create segroups on OpenStack.  
 The module creates **only security groups**. Rules for them are created in the submodule - serules!  

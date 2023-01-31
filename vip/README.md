@@ -1,5 +1,5 @@
 # terraform-openstack-vip
-![Terraform Build](https://nexus.btsd.kz/repository/devops/badge.svg)
+
 
 Terraform module to create vitrual ip on OpenStack.  
 **Depends on module.network**  

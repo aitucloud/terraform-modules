@@ -1,5 +1,5 @@
 # terraform-openstack-network
-![Terraform Build](https://nexus.btsd.kz/repository/devops/badge.svg)
+
 
 Terraform module to create networks on OpenStack.
 

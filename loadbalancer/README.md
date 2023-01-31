@@ -1,7 +1,7 @@
 # terraform-openstack-loadbalancer
 Based on https://github.com/thobiast/terraform-openstack-loadbalancer  
 
-![Terraform Build](https://nexus.btsd.kz/repository/devops/badge.svg)
+
 
 Terraform module to create Load Balancer on OpenStack.
 
